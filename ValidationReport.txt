@@ -1,0 +1,29 @@
+PASS  Scene exists: Assets/Scenes/MainMenu.unity
+PASS  Scene in Build Settings: Assets/Scenes/MainMenu.unity
+PASS  MainMenu: no missing scripts (0)
+PASS  MainMenu: no null serialized references (0)
+PASS  MainMenu: no missing/error materials (0)
+PASS  MainMenu: exactly one camera
+PASS  MainMenu: exactly one EventSystem
+PASS  MainMenu: InputSystemUIInputModule has an InputActionAsset and all UI action references
+PASS  MainMenu: exactly one AudioListener
+PASS  Scene exists: Assets/Scenes/CyberDefenseTraining.unity
+PASS  Scene in Build Settings: Assets/Scenes/CyberDefenseTraining.unity
+PASS  CyberDefenseTraining: no missing scripts (0)
+PASS  CyberDefenseTraining: no null serialized references (0)
+PASS  CyberDefenseTraining: no missing/error materials (0)
+PASS  CyberDefenseTraining: exactly one camera
+PASS  CyberDefenseTraining: exactly one EventSystem
+PASS  CyberDefenseTraining: InputSystemUIInputModule has an InputActionAsset and all UI action references
+PASS  CyberDefenseTraining: exactly one AudioListener
+PASS  Scene exists: Assets/Scenes/DesktopTest.unity
+PASS  Scene in Build Settings: Assets/Scenes/DesktopTest.unity
+PASS  DesktopTest: no missing scripts (0)
+PASS  DesktopTest: no null serialized references (0)
+PASS  DesktopTest: no missing/error materials (0)
+PASS  DesktopTest: exactly one camera
+PASS  DesktopTest: exactly one EventSystem
+PASS  DesktopTest: InputSystemUIInputModule has an InputActionAsset and all UI action references
+PASS  DesktopTest: exactly one AudioListener
+PASS  Android: IL2CPP + ARM64 + minSdk >= 29
+PASS  URP asset assigned as default render pipeline

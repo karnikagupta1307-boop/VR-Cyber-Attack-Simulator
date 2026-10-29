@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.meta.xr.simulator": "file:C:/Users/KARNIKA/Downloads/meta_xr_simulator_v74/com.meta.xr.simulator-74.0.0/package",
+    "com.unity.inputsystem": "1.14.0",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.xr.management": "4.7.0",
+    "com.unity.xr.meta-openxr": "2.6.1",
+    "com.unity.xr.openxr": "1.18.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  }
+}

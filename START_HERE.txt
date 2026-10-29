@@ -1,0 +1,9 @@
+CyberDefenseVR_Complete - START HERE
+
+This ZIP contains source code and a generator. It does NOT contain .unity/.prefab/.mat files; those are created inside Unity.
+
+A) Interactive: open THIS folder (the one containing Assets, Packages, ProjectSettings) in Unity Hub with 6000.3.22f1.
+   Wait for compile. Click "Generate" in the dialog (or menu CyberDefense > Generate Project Assets). Needs internet the first time (XR packages).
+B) Headless: UNITY=/path/to/Unity ./generate_assets.sh   (Windows: generate_assets.bat)
+Then: CyberDefense > Validate Project; open Assets/Scenes/MainMenu.unity; Play.
+Problems: CyberDefense > Diagnose Project; send me any red Console errors or generate_*.log.
